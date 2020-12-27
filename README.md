@@ -26,8 +26,12 @@ How to install it:
 
 # Screenshots:
 
-![Config](https://github.com/masagrator/DiesIraeNXEN/raw/masagrator-patch-1/Images/2020122717575200-88DABD6BF029E4019C69DC28281AC19B.jpg)
-![SCR1](https://github.com/masagrator/DiesIraeNXEN/raw/masagrator-patch-1/Images/2020122717585500-88DABD6BF029E4019C69DC28281AC19B.jpg)
-![SCR2](https://github.com/masagrator/DiesIraeNXEN/raw/masagrator-patch-1/Images/2020122717590700-88DABD6BF029E4019C69DC28281AC19B.jpg)
-![SCR3](https://github.com/masagrator/DiesIraeNXEN/raw/masagrator-patch-1/Images/2020122717591900-88DABD6BF029E4019C69DC28281AC19B.jpg)
-![SCR4](https://github.com/masagrator/DiesIraeNXEN/raw/masagrator-patch-1/Images/2020122718005000-88DABD6BF029E4019C69DC28281AC19B.jpg)
+![Config](https://github.com/masagrator/DiesIraeNXEN/raw/main/Images/2020122717575200-88DABD6BF029E4019C69DC28281AC19B.jpg)
+![SCR1](https://github.com/masagrator/DiesIraeNXEN/raw/main/Images/2020122717585500-88DABD6BF029E4019C69DC28281AC19B.jpg)
+![SCR2](https://github.com/masagrator/DiesIraeNXEN/raw/main/Images/2020122717590700-88DABD6BF029E4019C69DC28281AC19B.jpg)
+![SCR3](https://github.com/masagrator/DiesIraeNXEN/raw/main/Images/2020122717591900-88DABD6BF029E4019C69DC28281AC19B.jpg)
+![SCR4](https://github.com/masagrator/DiesIraeNXEN/raw/main/Images/2020122718005000-88DABD6BF029E4019C69DC28281AC19B.jpg)
+
+---
+
+# [Download](https://drive.google.com/file/d/1X2ayeIGz9NOLdtGg23SQuMnaUdbZ3SHk/view?usp=sharing)
