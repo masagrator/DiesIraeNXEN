@@ -25,3 +25,7 @@ How to install it:
 ---
 
 Screenshots:
+---
+
+Screenshots:
+![Config](https://github.com/masagrator/DiesIraeNXEN/raw/masagrator-patch-1/Images/2020122717575200-88DABD6BF029E4019C69DC28281AC19B.jpg)
