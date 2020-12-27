@@ -48,4 +48,4 @@ All files in package are only related to port. They don't have any untouched ori
 # Troubleshooting
 
 Any issues that glitch game please write here:
-https://github.com/masagrator/DiesIraeNXEN/discussions
+[https://github.com/masagrator/DiesIraeNXEN/discussions](https://github.com/masagrator/DiesIraeNXEN/discussions)
