@@ -8,7 +8,7 @@ Main differences:
 - Playing voices is attached to pause count in each text block, so because pauses must match to play voices correctly and Steam PC pause count was sometimes different, I have changed break lines and didn't delete few japanese lines in blocks playing voices if they didn't exist in Steam PC
 - Switch version doesn't support italic binary tags from Steam PC, so I have changed them with `《` and `》`
 - Switch version is breaking text by last character, not by last space, so lines are breaked differently than on Steam PC
-- For Configuration menu + Extra Switch version is using different assets, so I have translated them and swapped original assets. Help menu is not translated (if someone with experience wants to translate it, contact me)
+- For Configuration menu + Extra Switch version is using different assets, so I have translated them and swapped original assets. Help menu is not translated (if someone with experience wants to translate it, contact me) + popups
 - Character names offset cannot be changed without decompiling bytecode. So if English name is bigger than Japanese, I'm changing sound file name that is always after to shorter name, fix offset for audio file and pack audio file with new name.
 - Some dialogues have joined or splitted audio files in comparison to steam pc release, so texts was appropriately redacted
 
