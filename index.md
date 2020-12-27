@@ -1,6 +1,6 @@
 # DiesIraeNXEN
 
-This project ports English translation from PC to Switch with some changes to adjust to some differences between Switch release and Steam PC.
+This project ports English translation from PC to Switch with some changes to adjust some differences between Switch release and Steam PC.
 
 Main differences:
 - PC release is using `UTF-16`, while Switch `Shift-JIS` which limits in what I can do with characters
@@ -10,7 +10,7 @@ Main differences:
 - Switch version is breaking text by last character, not by last space, so lines are breaked differently than on Steam PC
 - For Configuration menu + Extra Switch version is using different assets, so I have translated them and swapped original assets. Help menu is not translated (if someone with experience wants to translate it, contact me) + popups
 - Character names offset cannot be changed without decompiling bytecode. So if English name is bigger than Japanese, I'm changing sound file name that is always after to shorter name, fix offset for audio file and pack audio file with new name.
-- Some dialogues have joined or splitted audio files in comparison to steam pc release, so texts was appropriately redacted
+- Some dialogues have joined or splitted audio files in comparison to steam pc release, so texts were appropriately redacted
 
 Mod is in `alpha` phase. There is no ETA of beta and full release.
 
