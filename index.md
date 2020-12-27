@@ -42,3 +42,10 @@ All files in package are only related to port. They don't have any untouched ori
 ---
 
 # [Download](https://drive.google.com/file/d/1X2ayeIGz9NOLdtGg23SQuMnaUdbZ3SHk/view?usp=sharing)
+
+---
+
+# Troubleshooting
+
+Any issues that glitch game please write here:
+https://github.com/masagrator/DiesIraeNXEN/discussions
