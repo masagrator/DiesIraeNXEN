@@ -1,6 +1,6 @@
 # DiesIraeNXEN
 
-This project ports English translation from PC to Switch with some changes to adjust some differences between Switch release and Steam PC.
+This project ports English translation from PC to Switch with some changes to match some differences between Switch release and Steam PC.
 
 Main differences:
 - PC release is using `UTF-16`, while Switch `Shift-JIS` which limits in what I can do with characters
