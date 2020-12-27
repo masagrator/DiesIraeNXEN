@@ -27,6 +27,8 @@ How to install it:
 Credits for translation goes to staff from `Dies irae World Emanation Project`.
 All things related to porting and translating new assets were done by `MasaGratoR`
 
+All files in package are only related to port. They don't have any untouched original files from Switch version. They have been packed to data5.dat that doesn't exist in Switch version, but it's overriding any files that have the same pathname as in other data*.dat files
+
 ---
 
 # Screenshots:
