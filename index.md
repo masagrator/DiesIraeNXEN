@@ -13,6 +13,7 @@ Main differences:
 - Some dialogues have joined or splitted audio files in comparison to steam pc release, so texts were appropriately redacted
 
 Mod is in `alpha` phase. There is no ETA of beta and full release.
+Status of beta release: [https://github.com/masagrator/DiesIraeNXEN/discussions/4](https://github.com/masagrator/DiesIraeNXEN/discussions/4)
 
 Expected issues:
 - Text going out of boundaries
